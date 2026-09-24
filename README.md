@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👂 My name is Unnat.
+- 😄 My name is Unnat.
 - 📫 How to reach me: mail me at info.unnat123@gmail.com
 <!--
 - 🔭 I’m currently working on ...
